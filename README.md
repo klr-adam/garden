@@ -1,1 +1,3 @@
-# garden
+# Garden
+
+Make your garden everywhere
